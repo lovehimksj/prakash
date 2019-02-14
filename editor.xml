@@ -8,4 +8,7 @@
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="" />
   </component>
+  <component name="LiveEditOptions" chromeUpdateApp="true">
+    <option name="elementHighlighting" value="true" />
+  </component>
 </application>
